@@ -6,17 +6,16 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 
-O **AeroCode** é uma solução de software de alta confiabilidade projetada para o gerenciamento técnico de dados de aeronaves e automação de relatórios de ensaios. O sistema padroniza o fluxo de informações entre engenharia e operações, garantindo integridade de dados e eficiência analítica. 
+O **AeroCode** é uma plataforma para cadastro e visualização de aeronaves, com o intuíto de facilitar o registro e a manipulação de dados e assim permitir que o usuário consiga ter mais praticidade ao manusear relatórios, cadastros, testes, etc 
 
 ## 📌 Visão Geral
 
 Este repositório contém o módulo de interface (Frontend) da aplicação, desenvolvido com foco em performance, escalabilidade e conformidade com as especificações técnicas do projeto.
 
 ### Principais Funcionalidades
-- **Gestão de Aeronaves:** Cadastro e monitoramento de parâmetros técnicos.
-- **Módulo de Relatórios:** Geração automatizada de laudos de ensaios e testes.
-- **Visualização de Dados:** Dashboards otimizados para acompanhamento de métricas operacionais.
-- **Interface Responsiva:** UX/UI moderna adaptada para fluxos de trabalho de engenharia.
+- **Gestão de Aeronaves:** 
+- **Módulo de Relatórios:** 
+- **Visualização de Dados:** 
 
 ## 🚀 Guia de Inicialização
 
@@ -34,7 +33,7 @@ Para garantir a estabilidade do sistema, certifique-se de possuir:
 1. **Clonagem do Repositório**
    Realize o clone do código fonte para sua máquina local:
    ```bash
-   git clone [https://github.com/seu-usuario/aerocode.git](https://github.com/seu-usuario/aerocode.git)
+   git clone https://github.com/Clown0o0/AV2
 
    Acesse a pasta raiz do projeto frontend:
 
@@ -50,6 +49,7 @@ Para garantir a estabilidade do sistema, certifique-se de possuir:
    
 
   O sistema estará disponível através do endpoint local:
+  
   
   👉 http://localhost:3000
 
