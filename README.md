@@ -10,8 +10,6 @@ O **AeroCode** é uma plataforma para cadastro e visualização de aeronaves, co
 
 ## 📌 Visão Geral
 
-Este repositório contém o módulo de interface (Frontend) da aplicação, desenvolvido com foco em performance, escalabilidade e conformidade com as especificações técnicas do projeto.
-
 ### Principais Funcionalidades
 - **Gestão de Aeronaves:** 
 - **Módulo de Relatórios:** 
