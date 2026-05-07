@@ -51,6 +51,8 @@ Para garantir a estabilidade do sistema, certifique-se de possuir:
   
   👉 http://localhost:3000
 
-  
+  O Figma do projeto demora para carregar, está tudo funcionando corretamente, caso ele demore para mostrar ou mostre repetidas imagens, ou mostre apenas o icone, reinicie a página e tente novamente.
+
+  (Não sei mexer no figma)
   
 
