@@ -3,7 +3,7 @@
 
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-brightgreen.svg)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
 O **AeroCode** é uma plataforma para cadastro e visualização de aeronaves, com o intuíto de facilitar o registro e a manipulação de dados e assim permitir que o usuário consiga ter mais praticidade ao manusear relatórios, cadastros, testes, etc 
