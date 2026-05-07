@@ -1,4 +1,4 @@
-# ✈️ AeroCode | Sistema de Gestão e Relatórios Aeronáuticos
+#AeroCode | Sistema de Gestão e Relatórios Aeronáuticos
 
 
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-brightgreen.svg)
@@ -8,14 +8,14 @@
 
 O **AeroCode** é uma plataforma para cadastro e visualização de aeronaves, com o intuíto de facilitar o registro e a manipulação de dados e assim permitir que o usuário consiga ter mais praticidade ao manusear relatórios, cadastros, testes, etc 
 
-## 📌 Visão Geral
+## Visão Geral
 
 ### Principais Funcionalidades
 - **Gestão de Aeronaves:** 
 - **Módulo de Relatórios:** 
 - **Visualização de Dados:** 
 
-## 🚀 Guia de Inicialização
+##  Guia de Inicialização
 
 Siga os procedimentos abaixo para configurar o ambiente de desenvolvimento local.
 
