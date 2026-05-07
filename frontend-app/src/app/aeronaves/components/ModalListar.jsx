@@ -7,7 +7,7 @@ export default function ModalListar({ close }) {
     { codigo: "A001", modelo: "Boeing 737", tipo: "Comercial", cliente: "LATAM" },
     { codigo: "A002", modelo: "F-16", tipo: "Militar", cliente: "FAB" },
     { codigo: "A003", modelo: "Boeing 737", tipo: "Comercial", cliente: "LATAM" },
-    { codigo: "A004", modelo: "Heisenberg Voador", tipo: "Waltuh", cliente: "Jesse Pinkman" },
+    { codigo: "A004", modelo: "tucano", tipo: "militar", cliente: "Isabelo Submarino" },
   ];
 
   return (
